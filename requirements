@@ -1,0 +1,8 @@
+langid
+textblob
+nltk
+gensim
+googletrans
+stanza
+translator
+transformers
